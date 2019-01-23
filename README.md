@@ -1,9 +1,9 @@
-# ++**Clignotant Led**++
+# **Clignotant Led**
 
 
 Dans ce projet nous allons réaliser un Clignotant Led
 
-## ++**Matériels utilisé**++ 
+## **Matériels utilisé** 
 
 - [Arduino **Uno**](https://store.arduino.cc/arduino-uno-rev3) 
 
