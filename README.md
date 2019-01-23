@@ -29,14 +29,14 @@ Dans ce projet nous allons réaliser un Clignotant Led
 
 - LedControl
 
-## **++Brochure++**
+## **Brochure**
 
 Voici le montage de notre clignotant Led :
 
 ![Brochure](https://image.noelshack.com/fichiers/2019/04/3/1548252248-montage-led-clignotant-bb.png)
  
 
-## ++**Code**++
+## **Code**
 
 On ajoute la bibliothèque **LedControl**, puis on crée l'objet "LedControl" :
 
@@ -79,7 +79,7 @@ matrix.clearDisplay(0);
 
 On utilise une condition simple pour chaque bouton.
 
-**++Code pour le clignotant droit++** : (on rajoute du "**delay**" a la fin pour crée un effet de clignotement  :
+**Code pour le clignotant droit** : (on rajoute du "**delay**" a la fin pour crée un effet de clignotement  :
 
 ``` c++
  if(buttonLeft == 1) { 
@@ -120,7 +120,7 @@ On utilise une condition simple pour chaque bouton.
 }
 ```
  
-**++Code pour le clignotant gauche++** : 
+**Code pour le clignotant gauche** : 
 ``` c++
 if(buttonRight == 1) { 
     
@@ -161,7 +161,7 @@ if(buttonRight == 1) {
 }
 ```
 
-**++Code pour le Warning++** : 
+**Code pour le Warning** : 
 ``` c++
 
  if(buttonWarning == 1) { 
