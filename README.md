@@ -191,4 +191,4 @@ if(buttonRight == 1) {
 ```
 # **Résultat Final** : 
 
-[![video](https://www.youtube.com/upload_thumbnail?v=OF8e3JVgxyo&t=hqdefault&ts=1548240976384)](https://www.youtube.com/watch?v=OF8e3JVgxyo&feature=youtu.be)
+[![video](https://img.youtube.com/vi/OF8e3JVgxyo/0.jpg)](https://www.youtube.com/watch?v=OF8e3JVgxyo)
