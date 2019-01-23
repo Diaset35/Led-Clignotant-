@@ -3,6 +3,11 @@
 
 Dans ce projet nous allons réaliser un Clignotant Led
 
+# **Résultat Final** : 
+
+[![video](https://img.youtube.com/vi/OF8e3JVgxyo/0.jpg)](https://www.youtube.com/watch?v=OF8e3JVgxyo)
+
+
 ## **Matériels utilisé** 
 
 - [Arduino **Uno**](https://store.arduino.cc/arduino-uno-rev3) 
@@ -25,11 +30,11 @@ Dans ce projet nous allons réaliser un Clignotant Led
 
 ![Bouton](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT08WhRouiCQ2Ra7-bVFVjK63CH5VgyiPHdVN-j1xTv6l7ssHkpgr8JvnWDD0PdqkUDXDD8pduQXQ&usqp=CAc) 
 
-## **++Bibliothèque utilisée++** 
+## **Bibliothèque utilisée** 
 
 - LedControl
 
-## **Brochure**
+## **Branchements**
 
 Voici le montage de notre clignotant Led :
 
@@ -189,6 +194,3 @@ if(buttonRight == 1) {
    
 }
 ```
-# **Résultat Final** : 
-
-[![video](https://img.youtube.com/vi/OF8e3JVgxyo/0.jpg)](https://www.youtube.com/watch?v=OF8e3JVgxyo)
